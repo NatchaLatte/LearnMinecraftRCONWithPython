@@ -43,6 +43,8 @@ except MCRconException as e:
 ```shell
 broadcast-rcon-to-ops=true
 ```
+![broadcast-rcon-to-ops=true](/assets/images/broadcast-rcon-to-ops=true.png "broadcast-rcon-to-ops=true")
 ```shell
 broadcast-rcon-to-ops=false
 ```
+![broadcast-rcon-to-ops=false](/assets/images/broadcast-rcon-to-ops=false.png "broadcast-rcon-to-ops=false")
