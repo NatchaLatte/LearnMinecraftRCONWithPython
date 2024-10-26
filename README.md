@@ -16,7 +16,7 @@ rcon.password=p@ssword # ควรตั้งรหัสผ่านเอง
 rcon.port=25575 # สามารถเปลี่ยนได้ตามความเหมาะสม
 ```
 # การกำหนดค่าในไฟล์ main.py
-```shell
+```python
 from mcrcon import MCRcon, MCRconException
 
 host = '127.0.0.1' # แนะนำให้เป็น localhost หรือ 127.0.0.1 เพื่อความปลอดภัย
